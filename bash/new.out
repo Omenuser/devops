@@ -1,0 +1,10 @@
+total 28
+-rw-rw-r-- 1 omen omen 144 Jan  1 02:39 cond.sh
+-rwxrwxr-x 1 omen omen 132 Jan  1 02:06 hello.sh
+-rw-rw-r-- 1 omen omen  64 Jan  1 02:50 loops.sh
+-rw-rw-r-- 1 omen omen   0 Jan  1 03:42 new.out
+-rw-rw-r-- 1 omen omen  43 Jan  1 03:42 singleerr.sh
+-rw-rw-r-- 1 omen omen  45 Jan  1 03:36 stderr.sh
+-rw-rw-r-- 1 omen omen  86 Jan  1 03:41 stdop.sh
+-rw-rw-r-- 1 omen omen 203 Jan  1 02:56 string.sh
+stderr.sh: line 7: als: command not found
