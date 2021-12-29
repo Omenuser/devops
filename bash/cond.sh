@@ -4,7 +4,8 @@ num=7
 if [ $num -gt 5 ] || [ $num -lt 10 ]
  then
 
-   echo "mo is within our range"
+
+   echo "no is within our range"
 
 
 else 
